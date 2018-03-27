@@ -45,7 +45,10 @@ There is absolutely nothing wrong with mk and we are going to keep using
 it to compile C code, or when its file generation features make sense.
 
 You may have noticed that I talked a lot about mk instead of make,
-well checkout [make docs](https://www.gnu.org/software/make/manual/make.html),
+well checkout the [make docs](https://www.gnu.org/software/make/manual/make.html),
 when I see this all I can think about is:
 
 ![no](https://raw.githubusercontent.com/katcipis/memes/master/how-about-no.jpg)
+
+Not convinced ? Checkout the [code](http://git.savannah.gnu.org/cgit/make.git/tree/),
+indeed a testament to less is more right ? =)
