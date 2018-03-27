@@ -43,3 +43,9 @@ The idea is to start just with a really small set of features:
 And that is it, no code to handle file generation, aggregated files, etc.
 There is absolutely nothing wrong with mk and we are going to keep using
 it to compile C code, or when its file generation features make sense.
+
+You may have noticed that I talked a lot about mk instead of make,
+well checkout [make docs](https://www.gnu.org/software/make/manual/make.html),
+when I see this all I can think about is:
+
+![no](https://raw.githubusercontent.com/katcipis/memes/master/how-about-no.jpg)
